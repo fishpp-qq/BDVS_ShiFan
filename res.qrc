@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/2.png</file>
+        <file>img/3.png</file>
+        <file>img/4.png</file>
+        <file>img/GRA.png</file>
+        <file>img/cylinder.png</file>
+        <file>img/wind.png</file>
+        <file>img/windsock.png</file>
+        <file>img/pressure-meter.png</file>
+        <file>img/logo.png</file>
+        <file>img/heatmap.png</file>
+        <file>img/GRA1.png</file>
+    </qresource>
+</RCC>
